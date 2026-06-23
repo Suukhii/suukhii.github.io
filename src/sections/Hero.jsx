@@ -30,7 +30,7 @@ const Hero = () => {
                                 </span>
                             </h1>
                             <h1>into Real Projects </h1>
-                            <h1>that Deliver Results</h1>
+                            <h1>that Deliver Result</h1>
                         </div>
                     </div>
                 </header>
